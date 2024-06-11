@@ -9,7 +9,7 @@ export default function Statistics({
   percentPositive,
 }) {
   return (
-    <div className={styles.wrapper}>
+    <div className={styles.wrapperr}>
       <ul className={styles.feedback}>
         <li>Good: {good}</li>
         <li>Neutral: {neutral}</li>
